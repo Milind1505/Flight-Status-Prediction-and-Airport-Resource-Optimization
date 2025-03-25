@@ -1,6 +1,5 @@
 # Flight-Status-Prediction-and-Airport-Resource-Optimization
 
-# Flight Status Prediction and Airport Optimization
 
 ## Project Description
 
